@@ -7,7 +7,7 @@
 - 🔭 Full Stack Developer, currently pursuing a Bachelor's degree in Informatics at Telkom University.  
 - 👀 Passionate about web apps, tech innovations, and great UX.  
 - 🌱 Currently exploring backend frameworks, mobile dev, and cloud platforms.  
-- 💞️ Open for collaboration in open-source, web development, and dev communities.  
+- 🤝 Open for collaboration in open-source, web development, and dev communities.  
 - 😄 Pronouns: He/Him  
 - ⚡ Fun fact: Love experimenting with tech stacks and contributing to community projects!
 
