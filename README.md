@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://i.pinimg.com/originals/ad/fc/cd/adfccd6a72515359c1c283f912b67616.gif" width="100%" height="auto">
+  <img src="https://media1.tenor.com/m/jzZkdfuKcMAAAAAd/cat-kiss.gif" width="100%" height="auto">
 </p>
 
 <h1 align="center">👋 Hi, I’m Ryan</h1>
